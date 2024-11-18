@@ -1,0 +1,42 @@
+.button {
+    background-color: transparent;
+    border-radius: 25px;
+    padding: 5px 10px;
+    border: none;
+}
+
+.primary {
+    background-color: #1ea7fd;
+    color: white;
+}
+
+.secondary {
+    background-color: #03aaa2;
+    color: white;
+}
+
+.tertiary {
+    background-color: #3a3cb4;
+    color: white;
+}
+
+.transparent {
+    background-color: transparent;
+    color: #1ea7fd;
+    border: 1px solid #1ea7fd;
+}
+
+.small {
+    height: 16px;
+    padding: 0 10px;
+    font-size: 9px;
+}
+
+.medium {
+    height: 32px;
+}
+
+.large {
+    height: 40px;
+    font-size: 16px;
+}
